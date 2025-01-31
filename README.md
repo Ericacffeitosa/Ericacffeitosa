@@ -1,7 +1,7 @@
 ## Olá, eu sou a Érica Feitosa 👋<br><br>
-👩‍🎓 Estudante de Ciência da Computação.<br>
-📚 Bacharel em Marketing, com Pós em Análise e Projeto de Sistemas pela Puc/Rj.<br>
-💪🥰Estou decidida a me tornar uma Desenvolvedora de Software.<br>
+👩‍🎓 Formada em Ciência da Computação.<br>
+📚 Pós-graduada em Análise e Projeto de Sistemas pela Puc/Rj.<br>
+📍 Rio de Janeiro, Brasil.<br>
 
 <div align="center">
   <! -- GitHub Stats -->
